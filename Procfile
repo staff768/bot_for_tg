@@ -1,1 +1,1 @@
-web: python bot/prebot.py
+worker: python prebot.py
